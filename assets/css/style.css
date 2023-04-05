@@ -537,10 +537,9 @@ footer .copyright p{
 
   .home .row .col-img .blob-img {
     position: absolute; 
-    bottom: 410px; 
+    bottom: 50px; 
     left: 10px; 
-    top: 100px;
-    z-index: -99;
+    z-index: -2;
 }
 
 
@@ -607,7 +606,7 @@ footer .copyright p{
     position: absolute; 
     bottom: 100px; 
     left: 20px;
-    top: 100px; 
+    /* top: 100px;  */
     z-index: -99;
 }
 
