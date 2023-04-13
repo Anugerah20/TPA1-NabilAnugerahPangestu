@@ -5,4 +5,4 @@ This website is created using technology
 - CSS
 - Javascript
 
-Demo website: https://tpa1-nabil-anugerah-pangestu.netlify.app/
+Show demo [Personal Website](https://tpa1-nabil-anugerah-pangestu.netlify.app/)
